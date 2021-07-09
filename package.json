@@ -63,6 +63,8 @@
     "resin-bundle-resolve": "^4.3.0",
     "resin-compose-parse": "^2.1.2",
     "resin-docker-build": "^1.1.5",
+    "restify-clients": "^3.1.0",
+    "restify-errors": "^8.0.2",
     "semver": "^7.3.5",
     "tar-stream": "^2.1.3",
     "tar-utils": "^2.1.0",
